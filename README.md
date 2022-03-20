@@ -1,6 +1,6 @@
 ### Hi, Im Sajjad Chahardoli (:  
   
-  I'm a Fullstack Developer 🛠,  
+  I'm a Frontend Developer 🛠,  
   You can find more about me at [SajjadChahardoli](http://sajjadchahardoli.ir/) 
   
  <div style="display:flex;">
